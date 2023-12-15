@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+  .test {
+        padding: 40px;
+        width: 450px;
+        background-color: #f5f5f5;
+      }
+      .author {
+        width: 460px;
+        height: 70px;
+        background-color: white;
+      }
+      .author01 {
+        text-align: right;
+        margin: 5px;
+      }
+      .author2 {
+        width: 460px;
+        height: 70px;
+        background-color: white;
+      }
+      .author02 {
+        text-align: right;
+        margin: 5px;
+      }
+      .text1 {
+        padding: 10px 0px 0px;
+      }
+      .text2 {
+        padding: 10px 0px 0px;
+      }
